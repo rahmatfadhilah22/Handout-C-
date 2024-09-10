@@ -1,0 +1,14 @@
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.AssemblyInfoInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.AssemblyInfo.cs
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.csproj.CoreCompileInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\bin\Debug\net8.0\PertemuanTiga.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\bin\Debug\net8.0\PertemuanTiga.deps.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\bin\Debug\net8.0\PertemuanTiga.runtimeconfig.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\bin\Debug\net8.0\PertemuanTiga.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\bin\Debug\net8.0\PertemuanTiga.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\refint\PertemuanTiga.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\PertemuanTiga.genruntimeconfig.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanTiga\obj\Debug\net8.0\ref\PertemuanTiga.dll

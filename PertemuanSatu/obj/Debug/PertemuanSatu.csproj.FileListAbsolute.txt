@@ -1,0 +1,7 @@
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\obj\Debug\PertemuanSatu.csproj.AssemblyReference.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\obj\Debug\PertemuanSatu.csproj.CoreCompileInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\bin\Debug\PertemuanSatu.exe.config
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\bin\Debug\PertemuanSatu.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\bin\Debug\PertemuanSatu.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\obj\Debug\PertemuanSatu.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanSatu\obj\Debug\PertemuanSatu.pdb

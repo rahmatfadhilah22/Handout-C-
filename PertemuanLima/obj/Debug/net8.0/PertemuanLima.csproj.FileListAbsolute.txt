@@ -1,0 +1,14 @@
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\bin\Debug\net8.0\PertemuanLima.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\bin\Debug\net8.0\PertemuanLima.deps.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\bin\Debug\net8.0\PertemuanLima.runtimeconfig.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\bin\Debug\net8.0\PertemuanLima.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\bin\Debug\net8.0\PertemuanLima.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.AssemblyInfoInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.AssemblyInfo.cs
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.csproj.CoreCompileInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\refint\PertemuanLima.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\PertemuanLima.genruntimeconfig.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanLima\obj\Debug\net8.0\ref\PertemuanLima.dll

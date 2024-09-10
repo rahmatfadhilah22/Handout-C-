@@ -1,0 +1,14 @@
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\bin\Debug\net8.0\PertemuanEmpat.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\bin\Debug\net8.0\PertemuanEmpat.deps.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\bin\Debug\net8.0\PertemuanEmpat.runtimeconfig.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\bin\Debug\net8.0\PertemuanEmpat.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\bin\Debug\net8.0\PertemuanEmpat.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.AssemblyInfoInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.AssemblyInfo.cs
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.csproj.CoreCompileInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\refint\PertemuanEmpat.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\PertemuanEmpat.genruntimeconfig.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEmpat\obj\Debug\net8.0\ref\PertemuanEmpat.dll

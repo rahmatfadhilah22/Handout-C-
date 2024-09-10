@@ -1,0 +1,14 @@
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\bin\Debug\net8.0\PertemuanEnam.exe
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\bin\Debug\net8.0\PertemuanEnam.deps.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\bin\Debug\net8.0\PertemuanEnam.runtimeconfig.json
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\bin\Debug\net8.0\PertemuanEnam.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\bin\Debug\net8.0\PertemuanEnam.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.AssemblyInfoInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.AssemblyInfo.cs
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.csproj.CoreCompileInputs.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\refint\PertemuanEnam.dll
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.pdb
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\PertemuanEnam.genruntimeconfig.cache
+D:\Project_Bootcamp_Backend\Handout-C#-BC01\PertemuanEnam\obj\Debug\net8.0\ref\PertemuanEnam.dll
