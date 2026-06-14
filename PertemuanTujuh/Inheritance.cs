@@ -1,4 +1,4 @@
-namespace PertemuanEnam
+namespace PertemuanTujuh
 {
 	public class Guru
 	{

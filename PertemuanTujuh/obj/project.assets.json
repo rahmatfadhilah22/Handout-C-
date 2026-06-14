@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEnam/PertemuanEnam.csproj",
-      "projectName": "PertemuanEnam",
-      "projectPath": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEnam/PertemuanEnam.csproj",
+      "projectUniqueName": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/PertemuanTujuh.csproj",
+      "projectName": "PertemuanTujuh",
+      "projectPath": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/PertemuanTujuh.csproj",
       "packagesPath": "/home/ubuntu/.nuget/packages/",
-      "outputPath": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEnam/obj/",
+      "outputPath": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ubuntu/.nuget/NuGet/NuGet.Config"

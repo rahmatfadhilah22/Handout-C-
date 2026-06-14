@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "54ePxpQh2P+eyzRWzJkuUvJqjfKQAFn2yiz2OKAiez2A+OyA7A30czkctAWTtBw7qf7naZFlxZZto7TPs4T6Jg==",
+  "dgSpecHash": "AQ1i/+hozCLjAG7GQiEMjwUSOGH7ma+yMYvNXMU7wEB0vXbjrKKrU38vlMMhlyMOCWXBj7DtTLLZFNixxEeVIA==",
   "success": true,
-  "projectFilePath": "D:\\Project_Bootcamp_Backend\\Handout-C#-BC01\\PertemuanEnam\\PertemuanEnam.csproj",
+  "projectFilePath": "/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEnam/PertemuanEnam.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
