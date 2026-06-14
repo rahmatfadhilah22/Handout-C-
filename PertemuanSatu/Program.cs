@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -67,9 +67,9 @@ namespace PertemuanSatu
             Console.WriteLine(angkaDuaConvert);
 
             Console.WriteLine("Masukan panjang");
-            int panjang = int.Parse(Console.ReadLine());
+            int panjang = int.Parse(Console.ReadLine()!);
             Console.WriteLine("Masukan Lebar");
-            int lebar = int.Parse(Console.ReadLine());
+            int lebar = int.Parse(Console.ReadLine()!);
 
             int luas = panjang * lebar;
             Console.WriteLine("Selamat anda berhasil hack NASA");

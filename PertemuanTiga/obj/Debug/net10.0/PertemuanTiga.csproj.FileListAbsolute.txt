@@ -1,0 +1,15 @@
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/bin/Debug/net10.0/PertemuanTiga
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/bin/Debug/net10.0/PertemuanTiga.deps.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/bin/Debug/net10.0/PertemuanTiga.runtimeconfig.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/bin/Debug/net10.0/PertemuanTiga.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/bin/Debug/net10.0/PertemuanTiga.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.AssemblyInfoInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.AssemblyInfo.cs
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.csproj.CoreCompileInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.sourcelink.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/refint/PertemuanTiga.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/PertemuanTiga.genruntimeconfig.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTiga/obj/Debug/net10.0/ref/PertemuanTiga.dll

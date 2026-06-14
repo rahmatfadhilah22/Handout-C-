@@ -33,7 +33,7 @@
 
         // Contoh method dengan tipe return
 
-        public int MenghitungLuasan(int panjang, int lebar)
+        int MenghitungLuasan(int panjang, int lebar)
         {
             int luas = panjang * lebar;
             return luas;

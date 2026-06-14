@@ -1,0 +1,15 @@
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/bin/Debug/net10.0/PertemuanEmpat
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/bin/Debug/net10.0/PertemuanEmpat.deps.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/bin/Debug/net10.0/PertemuanEmpat.runtimeconfig.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/bin/Debug/net10.0/PertemuanEmpat.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/bin/Debug/net10.0/PertemuanEmpat.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.AssemblyInfoInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.AssemblyInfo.cs
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.csproj.CoreCompileInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.sourcelink.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/refint/PertemuanEmpat.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/PertemuanEmpat.genruntimeconfig.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanEmpat/obj/Debug/net10.0/ref/PertemuanEmpat.dll

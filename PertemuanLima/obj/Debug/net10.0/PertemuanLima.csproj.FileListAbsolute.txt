@@ -1,0 +1,15 @@
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/bin/Debug/net10.0/PertemuanLima
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/bin/Debug/net10.0/PertemuanLima.deps.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/bin/Debug/net10.0/PertemuanLima.runtimeconfig.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/bin/Debug/net10.0/PertemuanLima.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/bin/Debug/net10.0/PertemuanLima.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.AssemblyInfoInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.AssemblyInfo.cs
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.csproj.CoreCompileInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.sourcelink.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/refint/PertemuanLima.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/PertemuanLima.genruntimeconfig.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanLima/obj/Debug/net10.0/ref/PertemuanLima.dll
