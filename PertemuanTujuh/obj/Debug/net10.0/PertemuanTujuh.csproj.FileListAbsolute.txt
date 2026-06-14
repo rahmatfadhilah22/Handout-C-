@@ -1,0 +1,15 @@
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/bin/Debug/net10.0/PertemuanTujuh
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/bin/Debug/net10.0/PertemuanTujuh.deps.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/bin/Debug/net10.0/PertemuanTujuh.runtimeconfig.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/bin/Debug/net10.0/PertemuanTujuh.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/bin/Debug/net10.0/PertemuanTujuh.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.AssemblyInfoInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.AssemblyInfo.cs
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.csproj.CoreCompileInputs.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.sourcelink.json
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/refint/PertemuanTujuh.dll
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.pdb
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/PertemuanTujuh.genruntimeconfig.cache
+/home/ubuntu/.hermes/test-bench/Handout-C-/PertemuanTujuh/obj/Debug/net10.0/ref/PertemuanTujuh.dll
